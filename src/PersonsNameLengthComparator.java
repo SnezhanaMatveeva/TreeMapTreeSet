@@ -1,4 +1,4 @@
-import java.util.Comparator;
+/*import java.util.Comparator;
 
 public class PersonsNameLengthComparator implements Comparator<Person> {
     private int maxCount;
@@ -22,7 +22,7 @@ public class PersonsNameLengthComparator implements Comparator<Person> {
         }
     }
 
-    private int compareAge(int personAge1, int personAge2) {
+   private int compareAge(int personAge1, int personAge2) {
         if (personAge1 > personAge2) {
             return -1;
         } else if (personAge1 < personAge2) {
@@ -30,5 +30,5 @@ public class PersonsNameLengthComparator implements Comparator<Person> {
         }
         return 0;
     }
-}
+}*/
 
